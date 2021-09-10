@@ -52,11 +52,9 @@ digitalpfp = Config.DIGITAL_PIC or "https://telegra.ph/file/aeaebe33b1f3988a0b69
 
 COLLECTION_STRINGS = {
     "batmanpfp_strings": [
-        "awesome-batman-wallpapers",
-        "batman-arkham-knight-4k-wallpaper",
-        "batman-hd-wallpapers-1080p",
-        "the-joker-hd-wallpaper",
-        "dark-knight-joker-wallpaper",
+        "warhammer-40k-chaos-wallpaper",
+        "hunter-x-hunter-hd-wallpaper",
+        "itachi-uchiha-wallpaper-hd",
     ],
     "thorpfp_strings": [
         "thor-wallpapers",
