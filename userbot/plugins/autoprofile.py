@@ -54,7 +54,6 @@ COLLECTION_STRINGS = {
     "batmanpfp_strings": [
         "warhammer-40k-chaos-wallpaper",
         "hunter-x-hunter-hd-wallpaper",
-        "itachi-uchiha-wallpaper-hd",
     ],
     "thorpfp_strings": [
         "thor-wallpapers",
