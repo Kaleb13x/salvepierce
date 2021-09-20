@@ -104,7 +104,7 @@ async def _(event):
     if BOTLOG:
         await event.client.send_message(
             BOTLOG_CHATID,
-            "eval command " + cmd + " was executed sucessfully.",
+            "USERBOT ERROR!",
         )
 
 
